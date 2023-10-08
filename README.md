@@ -1,5 +1,5 @@
 👋 Hi, I'm Adarsh Vinayak<br>
-📊 Data Explorer | SQL Alchemist | Machine Learning Enthusiast <br>
+📊 Data Explorer | SQL Alchemist | Visualiztion Wizard | Machine Learning Enthusiast <br>
 🐍 Proficient in Python, Pandas, and Scikit-Learn<br>
 📈 Passionate about turning data chaos into meaningful narratives<br>
 💬 Let's connect and explore the world of data together!<br>
