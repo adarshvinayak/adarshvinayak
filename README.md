@@ -1,8 +1,7 @@
 👋 Hi, I'm Adarsh Vinayak<br>
 📊 Data Explorer | SQL Alchemist | Visualization Wizard | Machine Learning Enthusiast <br>
-🐍 Proficient in Python, Pandas, and Scikit-Learn<br>
+🐍 Proficient in SQL, Tableau, and Python<br>
 📈 Passionate about turning data chaos into meaningful narratives<br>
-💬 Let's connect and explore the world of data together!<br>
 📧 Contact me at adarshvinayak@gmail.com <br>
 🌐 LinkedIn: https://www.linkedin.com/in/adarsh-vinayak-84198314/
 
