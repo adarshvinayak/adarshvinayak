@@ -1,5 +1,5 @@
 👋 Hi, I'm Adarsh Vinayak<br>
-📊 Data Explorer | SQL Alchemist | Visualization Wizard | Machine Learning Enthusiast <br>
+📊 Data Analyst | Machine Learning <br>
 🐍 Proficient in SQL, Tableau, and Python<br>
 📈 Passionate about turning data chaos into meaningful narratives<br>
 📧 Contact me at adarshvinayak@gmail.com <br>
