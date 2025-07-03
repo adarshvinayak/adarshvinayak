@@ -65,7 +65,7 @@ Sora, Tavus, Heygen, Hugging Face, Cursor, Replicate
 I’m always open to meaningful collaborations, moonshot ideas, or just vibing over cool tech.
 
 📫 Drop a message here or ping me on [LinkedIn](https://www.linkedin.com/in/adarshvinayak)  
-🌐 Check out my [Portfolio](https://adarshvinayak.netlify.app/)
+🌐 Check out my [Portfolio](https://adarshvinayak.vercel.app/)
 
 ---
 
