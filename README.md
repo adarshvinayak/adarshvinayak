@@ -12,7 +12,7 @@ Welcome to my world of experiments at the intersection of **AI, data, storytelli
   I build intelligent systems with real-world applications — from **RAG-powered apps**, **voice agents**, and **LLM integrations** to full-fledged **e-commerce and matchmaking platforms**.
 
 - 🧑‍💻 **Full-stack Dev**  
-  React + Next.js + Supabase is my home base. I'm currently building platforms like **SuperNetworkAI** (smart networking) and **GoGirga** (milk delivery with subscription logic).
+  React + Next.js + Supabase is my home base. I'm currently building platforms like **SuperNetworkAI** (smart networking) and **Brandomatic** (AI ad generator using ChatGPT Vision).
 
 - 🎨 **Creative Tech & Media**  
   3D artist 🧊 | Video editor 🎬 | Designer 🎨 | Avatar + voice experiments using **LiveKit**, **Heygen**, **Tavus**, and **ComfyUI + LoRAs**.
@@ -25,9 +25,9 @@ Welcome to my world of experiments at the intersection of **AI, data, storytelli
 ## 🧩 Current Projects
 
 - **🧠 SuperNetworkAI** – Smart, AI-powered professional network with search, matchmaking, and messaging.
-- **🥛 GoGirga** – Full-stack milk subscription + delivery app (web + mobile).
+- **🎯 Brandomatic** – An AI ad generator using ChatGPT Vision where you can instantly generate ads for your brand in your preferred style.
 - **🎭 Voice Avatars + AI agents** – Integrating Heygen, LiveKit, and Tavus for real-time conversational avatars.
-- **🎬 AI-generated anime scenes** – Using ComfyUI + cinematic LoRA prompts for storytelling.
+- **🎬 AI-generated anime and movie scenes** – Using ComfyUI + LoRA + Midjourney + Runway + Kling for immersive storytelling.
 
 ---
 
@@ -40,13 +40,13 @@ React, Next.js, Vite, Tailwind, shadcn-ui
 Supabase, PostgreSQL, Python, FastAPI, Node.js, CI/CD (WIP)
 
 // **AI & Media**
-OpenAI, RAG pipelines, LoRAs, ComfyUI, LiveKit, Pyannote, WebRTC, Blender, After Effects
+OpenAI, RAG pipelines, LoRAs, ComfyUI, LiveKit, Pyannote, WebRTC, Blender, After Effects, Kling, Runway
 
 // **Design**
-Figma, Photoshop, DaVinci Resolve, Midjourney
+Figma, Photoshop, DaVinci Resolve, Midjourney, Flux
 
 // **Collab & Experiments**
-Sora, Tavus, Heygen, Hugging Face, Cursor
+Sora, Tavus, Heygen, Hugging Face, Cursor, Replicate
 
 ---
 
