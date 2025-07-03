@@ -33,19 +33,19 @@ Welcome to my world of experiments at the intersection of **AI, data, storytelli
 
 ## 🛠️ My Toolbox
 
-// Frontend
+// **Frontend**
 React, Next.js, Vite, Tailwind, shadcn-ui
 
-// Backend & Infra
+// **Backend & Infra**
 Supabase, PostgreSQL, Python, FastAPI, Node.js, CI/CD (WIP)
 
-// AI & Media
+// **AI & Media**
 OpenAI, RAG pipelines, LoRAs, ComfyUI, LiveKit, Pyannote, WebRTC, Blender, After Effects
 
-// Design
+// **Design**
 Figma, Photoshop, DaVinci Resolve, Midjourney
 
-// Collab & Experiments
+// **Collab & Experiments**
 Sora, Tavus, Heygen, Hugging Face, Cursor
 
 ---
